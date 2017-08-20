@@ -1,0 +1,6 @@
+C:\Projects\MethodExample\MethodExample\bin\Debug\MethodExample.exe.config
+C:\Projects\MethodExample\MethodExample\bin\Debug\MethodExample.exe
+C:\Projects\MethodExample\MethodExample\bin\Debug\MethodExample.pdb
+C:\Projects\MethodExample\MethodExample\obj\Debug\MethodExample.csprojResolveAssemblyReference.cache
+C:\Projects\MethodExample\MethodExample\obj\Debug\MethodExample.exe
+C:\Projects\MethodExample\MethodExample\obj\Debug\MethodExample.pdb
